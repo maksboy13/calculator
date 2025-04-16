@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://avatars.mds.yandex.net/i?id=d38ec981cda79b12f89f833cb88d8614fe953e18-10391931-images-thumbs&n=13");
+}
+
+.calc {
+    width: 240px;
+    background-color: black;
+    padding: 20px;
+    color: white;
+    font-size: 0px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+#res {
+    font-size: 30px;
+    text-align: right;
+}
+
+.but {
+    margin: 0px;
+    padding: 0px;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-width: 0px;
+    border-radius: 10px;
+    background-color: dimgray;
+    color: white;
+    font-size: 20px;
+}
+
+.up {background-color: gray;}
+.side {background-color: orange;}
+
+#zero {
+    width: 110px;    
+}
